@@ -1,0 +1,2 @@
+I"#<p>In this work, we present SynthOutdoor dataset, comprising 39086 high-resolution images, aimed at addressing the data scarcity in the field of 3D light direction estimation under the assumption of distant lighting. SynthOutdoor was generated using our software that is based on the Unity3D engine. Our dataset provides a set of images rendered from a given input scene, with the camera moving across a predefined path within the scene. This dataset captures a wide variety of lighting conditions through the implementation of a solar cycle.</p>
+:ET

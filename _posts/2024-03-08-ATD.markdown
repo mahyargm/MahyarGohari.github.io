@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Spectrogram-Based Detection of Auto-Tuned Vocals in Music Recordings"
+date:   2024-03-08 00:00:00 +00:00
+image: /images/ATD.jpg
+author: "Mahyar Gohari"
+authors: "<strong>Mahyar Gohari</strong>, Paolo Bestagini, Sergio Benini, Nicola Adami"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2403.05380
+code: https://github.com/mahyargm/Auto-Tune-Detection
+website: https://mahyargm.github.io/Auto-Tune-Detection/
+---
+
+This study introduces a data-driven approach leveraging triplet networks for the detection of Auto-Tuned songs.

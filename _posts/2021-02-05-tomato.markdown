@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Detection and Localization of Ripe Tomatoes Using Machine Vision"
+date:   2021-02-05 00:00:00 +00:00
+image: /images/tomato.png
+author: "Mahyar Gohari"
+authors: "<strong>Mahyar Gohari</strong>"
+venue: "Turkish Journal of Computer and Mathematics Education (TURCOMAT)"
+paper: https://turcomat.org/index.php/turkbilmat/article/view/11132/8262
+---
+
+The study aimed to design a  model  for  a  tomato  harvester  robot  using  machine  vision  to  be  able  to  detect  and  locate  tomatoes automatically and  in real-time.
