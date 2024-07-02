@@ -1,2 +1,0 @@
-I"_<p>This research introduces a novel methodology utilizing a physics-informed neural network (PINN) to achieve precise global 3D light direction estimation. The proposed architecture integrates an illumination model, allowing the network to indirectly acquire geometric information, thereby enhancing the accuracy of the estimated light direction.</p>
-:ET

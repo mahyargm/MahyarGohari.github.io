@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+  <style>
+    .header-container {
+      width: 100%;
+      background-color: #d27c27; /* Ensure the background color spans the full width */
+    }
+  </style>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-E00L9PT3V9"></script>
   <script>
@@ -25,36 +31,38 @@
 
 </head>
 
-<body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<body>  
+  <table class="top-section" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr style="padding:0px">
-            <td style="padding:2.5%;width:60%;vertical-align:middle">
-              <h1>
-                Mahyar Gohari
-              </h1>
-              <p>I am a computer vision researcher currently pursuing a PhD at the <a href="https://www.unibs.it/">University of Brescia</a>, in the Departmetnt of <a href="https://drii.unibs.it/">Information Engineering</a>, where I work on multimedia forensics under the supervision of Professor <a href="https://www.unibs.it/en/ugov/person/1906">Nicola Adami</a>.
-              </p>
-              <p style="text-align:center">
-                <a target="_blank" href="mailto:{{site.footer-links.email}}"> Email</a> &nbsp;/&nbsp;
-                <a href={{site.footer-links.CV}}>CV</a> &nbsp;/&nbsp;
-                <a href={{site.footer-links.github}}>GitHub</a> &nbsp;/&nbsp;
-                <a href={{site.footer-links.linkedin}}> LinkedIn </a>
-              </p>
-            </td>
-            <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src={{site.avatar}}>
-            </td>
-          </tr>
-        </table>
+        <div class="header-container">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:60%;vertical-align:middle">
+                <h1>
+                  Mahyar Gohari
+                </h1>
+                <p style="text-align: justify;">I am a computer vision researcher currently pursuing a PhD at the <a href="https://www.unibs.it/">University of Brescia</a>, in the Departmetnt of <a href="https://drii.unibs.it/">Information Engineering</a>, where I work on multimedia forensics under the supervision of Professor <a href="https://www.unibs.it/en/ugov/person/1906">Nicola Adami</a>.
+                </p>
+                <p style="text-align:center">
+                  <a target="_blank" href="mailto:{{site.footer-links.email}}"> Email</a> &nbsp;/&nbsp;
+                  <a href={{site.footer-links.CV}}>CV</a> &nbsp;/&nbsp;
+                  <a href={{site.footer-links.github}}>GitHub</a> &nbsp;/&nbsp;
+                  <a href={{site.footer-links.linkedin}}> LinkedIn </a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+                <img style="width:100%;max-width:100%" alt="profile photo" src={{site.avatar}}>
+              </td>
+            </tr>
+          </table>
+        </div>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
-              <p>
+              <p style="text-align: justify;">
                 I'm interested in computer vision, signal processing, and machine learning.
               </p>
             </td>
@@ -67,7 +75,7 @@
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
+            <td style="padding:2.5%;width:75%;vertical-align:middle;text-align: justify;">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
