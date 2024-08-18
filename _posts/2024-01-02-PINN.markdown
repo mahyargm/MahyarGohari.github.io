@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PINN-based Approach for Robust 3D Light Direction Estimation in Outdoor Images"
+title:  "PGNN-based Approach for Robust 3D Light Direction Estimation in Outdoor Images"
 date:   2024-01-01 00:00:00 +00:00
 image: /images/PINN.png
 author: "Mahyar Gohari"
@@ -9,4 +9,4 @@ venue: "Accepted at CBMI"
 code: https://github.com/marza1993/LightNormalsEstimation
 ---
 
-This research introduces a novel methodology utilizing a physics-informed neural network (PINN) to achieve precise global 3D light direction estimation. The proposed architecture integrates an illumination model, allowing the network to indirectly acquire geometric information, thereby enhancing the accuracy of the estimated light direction.
+This research introduces a novel methodology utilizing a physics-guided neural network (PGNN) to achieve precise global 3D light direction estimation. The proposed architecture integrates an illumination model, allowing the network to indirectly acquire geometric information, thereby enhancing the accuracy of the estimated light direction.

@@ -73,10 +73,11 @@ kramdown:
     css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
-sass:
-  style: :compressed # You might prefer to minify using :compressed
+# sass:
+#   style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
+theme: jekyll-theme-cayman
 plugins:
       - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
     #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
