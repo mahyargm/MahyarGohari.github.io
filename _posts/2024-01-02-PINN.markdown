@@ -5,7 +5,7 @@ date:   2024-01-01 00:00:00 +00:00
 image: /images/PINN.png
 author: "Mahyar Gohari"
 authors: "Marcello Zanardelli, <strong>Mahyar Gohari</strong>, Riccardo Leonardi, Sergio Benini, Nicola Adami"
-venue: "Accepted at CBMI"
+venue: "2024 International Conference on Content-based Multimedia Indexing (CBMI)"
 code: https://github.com/marza1993/LightNormalsEstimation
 ---
 
