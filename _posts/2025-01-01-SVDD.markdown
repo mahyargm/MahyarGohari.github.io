@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Audio Features Investigation for Singing Voice Deepfake Detection"
+date:   2025-01-01 00:00:00 +00:00
+image: /images/SVDD.png
+author: "Mahyar Gohari"
+authors: "<strong>Mahyar Gohari</strong>, Davide Salvi, Paolo Bestagini, Nicola Adami"
+venue: "2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+code: https://github.com/mahyargm/SVDD_MIREX2024
+paper: https://ieeexplore.ieee.org/document/10888452
+---
+
+This research investigates the effectiveness of various audio representations and features for discriminating real and synthetically generated singing voice signals. This work achieved the highest performance at the [Singing Voice Deepfake Detection Challenge](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection) at [ISMIR 2024](https://ismir2024.ismir.net).

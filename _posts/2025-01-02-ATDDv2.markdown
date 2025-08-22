@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "ATDD: Multi-lingual Dataset for Auto-Tune Detection in Music Recordings"
+date:   2025-01-02 00:00:00 +00:00
+image: /images/ATD.jpg
+author: "Mahyar Gohari"
+authors: "<strong>Mahyar Gohari</strong>, Paolo Bestagini, Sergio Benini, Nicola Adami"
+venue: "Accepted in Data in Brief"
+---
+
+This research presents a new multilingual dataset aimed at differentiating between auto-tuned music and genuine performances, filling an important void in current datasets. It includes tracks in English, Mandarin, and Japanese to capture a wide range of linguistic settings.

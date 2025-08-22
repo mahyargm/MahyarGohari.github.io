@@ -7,6 +7,7 @@ author: "Mahyar Gohari"
 authors: "Marcello Zanardelli, <strong>Mahyar Gohari</strong>, Riccardo Leonardi, Sergio Benini, Nicola Adami"
 venue: "2024 International Conference on Content-based Multimedia Indexing (CBMI)"
 code: https://github.com/marza1993/LightNormalsEstimation
+paper: https://ieeexplore.ieee.org/document/10859228
 ---
 
 This research introduces a novel methodology utilizing a physics-guided neural network (PGNN) to achieve precise global 3D light direction estimation. The proposed architecture integrates an illumination model, allowing the network to indirectly acquire geometric information, thereby enhancing the accuracy of the estimated light direction.

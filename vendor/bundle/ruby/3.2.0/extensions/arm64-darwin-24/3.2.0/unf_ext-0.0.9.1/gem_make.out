@@ -1,0 +1,20 @@
+current directory: /Users/mahyar/projects/Website/MahyarGohari.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/Users/mahyar/.rbenv/versions/3.2.2/bin/ruby extconf.rb --use-system-libraries
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/mahyar/projects/Website/MahyarGohari.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250822-39176-e2ra7f sitelibdir\=./.gem.20250822-39176-e2ra7f clean
+
+current directory: /Users/mahyar/projects/Website/MahyarGohari.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250822-39176-e2ra7f sitelibdir\=./.gem.20250822-39176-e2ra7f
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.2'
+
+current directory: /Users/mahyar/projects/Website/MahyarGohari.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250822-39176-e2ra7f sitelibdir\=./.gem.20250822-39176-e2ra7f install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20250822-39176-e2ra7f
+
+current directory: /Users/mahyar/projects/Website/MahyarGohari.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250822-39176-e2ra7f sitelibdir\=./.gem.20250822-39176-e2ra7f clean
